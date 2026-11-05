@@ -5,4 +5,5 @@ objective: master version control, leave no trace
            (except beautiful commits)
 codename: sourikata
 status:   STANDBY
+clearance: LEVEL-5
 ##################################################
